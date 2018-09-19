@@ -26,3 +26,4 @@ cout<<a. GetNumberOfInputs()<<endl;
 
 6.	Write a main function that prints the truth table of the following logic circuit using the above classes.
 
+![](Images/Untitled.png)
