@@ -1,4 +1,4 @@
-# gate-class
+# gate-class(NOT finished yet)
 1.	Complete the Gate class which represents a gate in a Logic circuit. This class stores the values inputs in an array pointed by input pointer and the number of inputs in variable n which are defined as private.  Your job is to complete:
 a)	A constructor that makes the input array and initiates all inputs to false.
 b)	A setInput function that sets the value of an input.
